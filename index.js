@@ -2,6 +2,6 @@ function divide() {
   return 2000 / 100;
 }
 
-const square = a => a * a;
+let square = a => a * a;
 
-const add = (a, b) => a + b;
+let add = (a, b) => a + b;
